@@ -6,6 +6,8 @@ Projeto de Análise de Dados desenvolvido como trabalho final da disciplina Tóp
 
 O estudo foi realizado aplicado a um cenário real de mercado para uma empresa parceira, cujo nome foi preservado por questões de confidencialidade.
 
+Para a realização desse projeto foi escolhida a IDE "Jupyter Notebook".
+
 ---
 
 ## 🗂 Base de Dados
