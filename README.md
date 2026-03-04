@@ -6,7 +6,19 @@ Projeto de Análise de Dados desenvolvido como trabalho final da disciplina Tóp
 
 O estudo foi realizado aplicado a um cenário real de mercado para uma empresa parceira, cujo nome foi preservado por questões de confidencialidade.
 
-***Para a realização desse projeto foi escolhida a IDE "Jupyter Notebook".***
+---
+
+## 🖥 Linguagens e Tecnologias Utilizadas
+
+Este projeto foi desenvolvido utilizando as seguintes linguagens, bibliotecas e ferramentas:
+
+| Linguagem / Tecnologia | Aplicação no Projeto |
+|------------------------|----------------------|
+| **Jupyter Notebook (.ipynb)** | Ambiente interativo para desenvolvimento e documentação da análise |
+| **Python**             | Linguagem principal utilizada para processamento e análise de dados |
+| **Pandas**             | Manipulação, limpeza e estruturação de dados tabulares |
+| **Matplotlib**         | Visualização de dados e geração de gráficos |
+| **Datetime (Python Standard Library)** | Manipulação e formatação de datas |
 
 ---
 
