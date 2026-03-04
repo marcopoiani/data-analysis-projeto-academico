@@ -2,6 +2,8 @@
 
 ## 📌 Sobre o Projeto
 
+Projeto de Análise de Dados desenvolvido como trabalho final da disciplina Tópicos de Big Data, aplicado a um cenário real de mercado. O estudo foi realizado para uma empresa parceira, cujo nome foi preservado por questões de confidencialidade.
+
 ---
 
 ## 🗂 Base de Dados
