@@ -13,6 +13,6 @@ Devido ao tamanho do conjunto de dados, a base utilizada não está versionada d
 A base necessária para execução completa da análise pode ser obtida no link abaixo:
 
 **🔗 Download da Base de Dados:**
-👉 **[Clique aqui para baixar]([(https://drive.google.com/file/d/1XFBsn75mwR69OYLuGkxLBGLKoK5_Kcj8/view?usp=sharing))**
+👉 **[(https://drive.google.com/file/d/1XFBsn75mwR69OYLuGkxLBGLKoK5_Kcj8/view?usp=sharing)**
 
 > ⚠️ Após realizar o download, extraia os arquivos e mova-os para o diretório correto conforme descrito na estrutura do projeto.
