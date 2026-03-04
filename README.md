@@ -2,13 +2,13 @@
 
 ## 📌 Sobre o Projeto
 
-Este repositório contém os códigos, scripts e documentações responsáveis pela análise de dados.
-
-Devido ao tamanho do conjunto de dados, a base utilizada não está versionada diretamente no repositório e deve ser baixada separadamente.
-
 ---
 
 ## 🗂 Base de Dados
+
+Este repositório contém os códigos, scripts e documentações responsáveis pela análise de dados.
+
+Devido ao tamanho do conjunto de dados, a base utilizada não está versionada diretamente no repositório e deve ser baixada separadamente.
 
 A base necessária para execução completa da análise pode ser obtida no link abaixo:
 
