@@ -25,7 +25,7 @@ Este projeto foi desenvolvido utilizando as seguintes linguagens, bibliotecas e 
 Recomenda-se utilizar:
 
 - Python 3.9+
-- Ambiente virtual (`venv` ou `conda`)
+- Jupyter Notebook ou Jupyter Lab
 - Instalação das dependências via:
 
 ```bash
