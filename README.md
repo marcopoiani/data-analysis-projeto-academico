@@ -20,6 +20,17 @@ Este projeto foi desenvolvido utilizando as seguintes linguagens, bibliotecas e 
 | **Matplotlib**         | Visualização de dados e geração de gráficos |
 | **Datetime (Python Standard Library)** | Manipulação e formatação de datas |
 
+## ⚙️ Ambiente de Execução
+
+Recomenda-se utilizar:
+
+- Python 3.9+
+- Ambiente virtual (`venv` ou `conda`)
+- Instalação das dependências via:
+
+```bash
+pip install pandas matplotlib
+```
 ---
 
 ## 🗂 Base de Dados
