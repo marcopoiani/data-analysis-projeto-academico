@@ -22,7 +22,7 @@ Este projeto foi desenvolvido utilizando as seguintes linguagens, bibliotecas e 
 
 ## ⚙️ Ambiente de Execução
 
-Recomenda-se utilizar:
+Recomenda-se executar o projeto utilizando:
 
 - Python 3.9+
 - Jupyter Notebook ou Jupyter Lab
