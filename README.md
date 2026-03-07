@@ -4,8 +4,6 @@
 
 Projeto de Análise de Dados desenvolvido como trabalho final da disciplina Tópicos de Big Data com aplicação de técnicas analíticas para extração de insights a partir de grandes volumes de dados.
 
-O estudo foi realizado aplicado a um cenário real de mercado para uma empresa parceira, cujo nome foi preservado por questões de confidencialidade.
-
 ---
 
 ## 🖥 Linguagens e Tecnologias Utilizadas
@@ -44,6 +42,18 @@ Devido ao tamanho do conjunto de dados, a base utilizada não está versionada d
 A base necessária para execução completa da análise pode ser obtida no link abaixo:
 
 **🔗 Download da Base de Dados:**
+
+---
+
+## 🧑‍💻 Autor
+
+Projeto desenvolvido para fins acadêmicos na disciplina **Tópicos de Big Data**, aplicado a um cenário de empresa real, cujo nome foi preservado por motivos de confidencialidade.
+
+---
+
+## 📄 Licença
+
+Este projeto é destinado para **fins educacionais e acadêmicos**.
 
 👉 **[https://drive.google.com/file/d/1XFBsn75mwR69OYLuGkxLBGLKoK5_Kcj8/view?usp=sharing]**
 > ⚠️ Após realizar o download, extraia os arquivos e mova-os para o diretório projeto.
